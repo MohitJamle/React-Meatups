@@ -45,3 +45,5 @@ export async function getStaticProps() {
 }
 
 export default HomePage;
+
+// Hosting link of this project  => https://react-meatups.vercel.app/
